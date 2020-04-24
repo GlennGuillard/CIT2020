@@ -299,8 +299,8 @@ text-align: center;
 #Chee
 {
 
-	font-size: 10px;
-	width: auto;
+	font-size: 15px;
+	width: 900px;
 	font-style:normal;
 
 }
@@ -326,8 +326,8 @@ flex-direction: column;}
 #F
 {
 
-	font-size: 20px;
-	width:  auto;
+	font-size: 15px;
+	width: 900px;
 	font-style:normal;
 
 }
@@ -335,12 +335,12 @@ flex-direction: column;}
 #FGH
 
 {margin : 0px 0px 0px 0px;font-size: 10px;
-	width:  auto;
+	width: 900px;
 	font-style:normal;}
 
 #FG
 {margin : 0px 0px 0px 0px;font-size: 10px;
-	width:  auto;
+	wwidth: 900px;;
 	font-style:normal;}
 
 
@@ -355,8 +355,8 @@ flex-direction: column;}
 
 #Che
 
-{font-size: 10px;
-	width:  auto;
+{font-size: 15px;
+	width: 900px;
 	font-style:normal;}
 
 
