@@ -1,5 +1,7 @@
 #SZA
 {display: none}
+#SAP
+{display: none}
 nav
 {
 	display: flex;
@@ -263,7 +265,7 @@ text-align: center;
 #SZB
 {display: none}
 #SZA
-{display: flex;}
+{display: contents;}
 
 li a 
 {
@@ -300,10 +302,38 @@ text-align: center;
 	font-size: 45px;
 	width: 700px;
 	font-style:normal;
+
 }
 
+#SAP 
 
+{display: flex;
+	width:auto;
+	margin: auto;
+	display: flex;
+text-align: center; 
+ justify-content: center;
+ font-style:normal;
+}
 
+#G
+{display: flex;
+	width:auto;
+	margin: auto;
+	display: flex;
+text-align: center; 
+ justify-content: center;
+ font-style:normal;
+flex-direction: column;}
+
+#F
+{
+
+	font-size: 45px;
+	width: 700px;
+	font-style:normal;
+
+}
 
 
 
