@@ -243,7 +243,7 @@ text-align: center;
  justify-content: center}
 
 #TE
-{font-size: 0px;
+{
 display: flex;
 text-align: center; 
  justify-content: center
@@ -251,7 +251,6 @@ padding: 0px 0px 0px 0px;
 margin : 0px 0px 0px 0px;}
 #DE
 {width: auto;
-font-size: 40px;
 display: flex;
 text-align: center; 
  justify-content: center;
@@ -299,8 +298,7 @@ text-align: center;
 #Chee
 {
 
-	font-size: 15px;
-	width: 900px;
+	width: auto;
 	font-style:normal;
 
 }
@@ -326,21 +324,18 @@ flex-direction: column;}
 #F
 {
 
-	font-size: 15px;
-	width: 900px;
+	width: auto;
 	font-style:normal;
 
 }
 
 #FGH
 
-{margin : 0px 0px 0px 0px;font-size: 10px;
-	width: 900px;
+{margin : 0px 0px 0px 0px;width: auto;
 	font-style:normal;}
 
 #FG
-{margin : 0px 0px 0px 0px;font-size: 10px;
-	wwidth: 900px;;
+{margin : 0px 0px 0px 0px;width: auto;
 	font-style:normal;}
 
 
