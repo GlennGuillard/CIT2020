@@ -233,9 +233,12 @@ text-align: center;
 margin : -70px 0px 0px 0px;}
 
 h2 
-{font-size: 40px;}
+{font-size: 60px;}
 #MOUAIS
-{font-size: 40px;}
+{font-size: 60px;
+display: flex;
+text-align: center; 
+ justify-content: center}
 
 #TE
 {font-size: 0px;
@@ -245,11 +248,12 @@ text-align: center;
 padding: 0px 0px 0px 0px;
 margin : 0px 0px 0px 0px;}
 #DE
-{width: 250px;
-font-size: 18px;
+{width: 700px;
+font-size: 40px;
 display: flex;
 text-align: center; 
- justify-content: center}
+ justify-content: center;
+font-style:normal;}
 
 #DER
 {display: flex;
@@ -260,5 +264,47 @@ text-align: center;
 {display: none}
 #SZA
 {display: flex;}
+
+li a 
+{
+
+	font-size: 35px;
+}
+
+h1
+{
+	font-size: 90px
+}
+
+#SY
+{
+
+font-size: 45px;
+font-style:normal;
+}
+
+#PB
+{
+display: flex;
+text-align: center; 
+ justify-content: center;
+ font-style:normal;
+}
+
+#Chee
+{
+
+	font-size: 45px;
+	width: 700px;
+	font-style:normal;
+}
+
+
+
+
+
+
+
+
 
 }	
