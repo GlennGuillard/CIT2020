@@ -250,7 +250,7 @@ text-align: center;
 padding: 0px 0px 0px 0px;
 margin : 0px 0px 0px 0px;}
 #DE
-{width: 700px;
+{width: auto;
 font-size: 40px;
 display: flex;
 text-align: center; 
@@ -265,7 +265,7 @@ text-align: center;
 #SZB
 {display: none}
 #SZA
-{display: contents;}
+{display: flex;}
 
 li a 
 {
@@ -281,7 +281,7 @@ h1
 #SY
 {
 
-font-size: 45px;
+font-size: 40px;
 font-style:normal;
 display: flex;
 text-align: center; 
@@ -299,8 +299,8 @@ text-align: center;
 #Chee
 {
 
-	font-size: 45px;
-	width: 700px;
+	font-size: 40px;
+	width: auto;
 	font-style:normal;
 
 }
@@ -329,8 +329,8 @@ flex-direction: column;}
 #F
 {
 
-	font-size: 45px;
-	width: 700px;
+	font-size: 40px;
+	width: auto;
 	font-style:normal;
 
 }
