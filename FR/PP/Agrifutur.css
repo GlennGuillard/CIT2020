@@ -275,13 +275,13 @@ li a
 
 h1
 {
-	font-size: 90px
+	font-size: 100px
 }
 
 #SY
 {
 
-font-size: 40px;
+font-size: 80px;
 font-style:normal;
 display: flex;
 text-align: center; 
@@ -299,7 +299,7 @@ text-align: center;
 #Chee
 {
 
-	font-size: 40px;
+	font-size: 20px;
 	width: auto;
 	font-style:normal;
 
@@ -326,7 +326,7 @@ flex-direction: column;}
 #F
 {
 
-	font-size: 40px;
+	font-size: 20px;
 	width:  auto;
 	font-style:normal;
 
@@ -334,12 +334,12 @@ flex-direction: column;}
 
 #FGH
 
-{margin : 0px 0px 0px 0px;font-size: 40px;
+{margin : 0px 0px 0px 0px;font-size: 20px;
 	width:  auto;
 	font-style:normal;}
 
 #FG
-{margin : 0px 0px 0px 0px;font-size: 40px;
+{margin : 0px 0px 0px 0px;font-size: 20px;
 	width:  auto;
 	font-style:normal;}
 
@@ -355,7 +355,7 @@ flex-direction: column;}
 
 #Che
 
-{font-size: 40px;
+{font-size: 20px;
 	width:  auto;
 	font-style:normal;}
 
