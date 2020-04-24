@@ -251,7 +251,7 @@ padding: 0px 0px 0px 0px;
 margin : 0px 0px 0px 0px;}
 #DE
 {width: auto;
-font-size: 15px;
+font-size: 40px;
 display: flex;
 text-align: center; 
  justify-content: center;
@@ -299,7 +299,7 @@ text-align: center;
 #Chee
 {
 
-	font-size: 15px;
+	font-size: 40px;
 	width: auto;
 	font-style:normal;
 
@@ -308,9 +308,8 @@ text-align: center;
 #SAP 
 
 {display: flex;
-	width:auto;
 	margin: auto;
-	display: flex;
+	
 text-align: center; 
  justify-content: center;
  font-style:normal;
@@ -318,8 +317,6 @@ text-align: center;
 
 #G
 {display: flex;
-	width:auto;
-	margin: auto;
 	display: flex;
 text-align: center; 
  justify-content: center;
@@ -330,12 +327,37 @@ flex-direction: column;}
 {
 
 	font-size: 40px;
-	width: auto;
+	width:  auto;
 	font-style:normal;
 
 }
 
+#FGH
 
+{margin : 0px 0px 0px 0px;font-size: 40px;
+	width:  auto;
+	font-style:normal;}
+
+#FG
+{margin : 0px 0px 0px 0px;font-size: 40px;
+	width:  auto;
+	font-style:normal;}
+
+
+#NZT
+
+{display: flex;
+	display: flex;
+text-align: center; 
+ justify-content: center;
+ font-style:normal;
+flex-direction: column;}
+
+#Che
+
+{font-size: 40px;
+	width:  auto;
+	font-style:normal;}
 
 
 
