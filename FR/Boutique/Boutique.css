@@ -13,6 +13,8 @@ display: flex;
     overflow: hidden;
 
 }
+#SZA
+{display: none;}
 
 #PO
 {
@@ -82,4 +84,57 @@ nav a:hover {
 {
 	font-style: italic;
 	text-decoration:underline;
+}
+
+#PDF
+{display: none;}
+
+
+
+
+
+@media screen and (max-width: 1280px)
+
+{
+   #SUP
+{display: none;}
+
+    body 
+{width:auto;
+}
+
+#SZA
+{display: flex;}
+
+
+#PP
+{display: none;}
+
+#PDF
+
+{display: flex;
+	justify-content: center;
+	align-items : center;
+	flex-direction: row;
+	{display: flex;}
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 }
