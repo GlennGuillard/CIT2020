@@ -4,6 +4,8 @@ body{
 	justify-content: center;
 	align-items : center;
 }
+#SSSA
+		{display: none;}
 #images
 {
 	margin : 0px 0px 0px 0px;
@@ -81,4 +83,14 @@ nav a
 
 nav a:hover {
 	color : white;
-	background : black;
+	background : black;}
+
+	@media screen and (max-width: 1280px)
+	{
+
+
+		#SSSA
+		{display: flex;}
+		#SSSS
+		{display: none;}
+	}
