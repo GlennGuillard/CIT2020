@@ -1,3 +1,5 @@
+#CFGT
+{display: none;}
 #PP
 {
 display: flex;
@@ -117,13 +119,14 @@ nav a:hover {
 	align-items : center;
 	flex-direction: row;
 	{display: flex;}
-
-
-
 }
 
 #IH
+{display: none;}
+
+#CFGT
 {width:auto;
+	display: flex;
 }
 
 
